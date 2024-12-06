@@ -18,8 +18,8 @@ I am a dedicated data scientist based in New York, driven by a deep passion for 
     <a href="https://medium.com/@saaytes/" target="_blank">
         <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" height="30">
     </a>&nbsp
-    <a href="https://saytes.io/downloads/SimonAytes_Resume.pdf" target="_blank">    
-        <img src="https://img.shields.io/badge/Resume-74A662?style=for-the-badge&logo=readme&logoColor=white" alt="Buy Me A Coffee" height="30"
+    <a href="https://saytes.io/files/SimonAytes_Resume.pdf" target="_blank">    
+        <img src="https://img.shields.io/badge/Resume-74A662?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" height="30"
     </a>&nbsp
     
 </div>
