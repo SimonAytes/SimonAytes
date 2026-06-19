@@ -1,6 +1,6 @@
 ### Hi there! I'm Simon! 👋
 
-I build AI systems and applied research tools — moving fast from rough ideas to things that work in production.
+I build AI systems and applied research tools, moving fast from rough ideas to things that work in production.
 
 - 🧑‍💻 Currently at Penta Group as a Senior Data Scientist, building internal AI tooling for analyst teams
 - 🎓 M.S. in Artificial Intelligence from [KAIST](https://gsai.kaist.ac.kr/) (Dec 2025)
